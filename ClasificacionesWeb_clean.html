@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Clasificaciones CX — Mocejón · Almansa · Ávila · Seseña (datos externos)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" href="data:,">
+  <style>
+    html { scroll-behavior: smooth; }
+    .muted { opacity: .6 }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+  <header class="sticky top-0 z-10 bg-white/80 backdrop-blur border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+      <h1 class="font-bold text-xl sm:text-2xl">
+        🏆 Clasificaciones CX <span class="text-slate-500">Mocejón · Almansa · Ávila · Seseña</span>
+      </h1>
+    </div>
+  </header>
+
+  <main class="max-w-7xl mx-auto px-4 py-6 space-y-6">
+    <!-- Controles -->
+    <section class="bg-white rounded-2xl shadow p-4 sm:p-6">
+      <div class="grid gap-4 sm:grid-cols-3">
+        <div class="sm:col-span-2">
+          <label class="block text-sm font-semibold mb-2">🎯 Categoría</label>
+          <select id="categoriaSelect"
+            class="w-full rounded-xl border-slate-300 focus:border-blue-500 focus:ring-blue-500"></select>
+        </div>
+        <div class="flex items-end gap-2">
+          <button id="btnExport"
+            class="w-full rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 font-semibold">
+            ⬇️ Exportar CSV
+          </button>
+        </div>
+      </div>
+      <p class="mt-3 text-sm text-slate-600">Cambia la categoría para recalcular automáticamente posiciones y puntos por prueba (Mocejón, Almansa, Ávila y Seseña) y la clasificación general.</p>
+    </section>
+
+    <!-- Tabla -->
+    <section class="bg-white rounded-2xl shadow p-2 sm:p-4">
+      <div class="overflow-x-auto">
+        <table class="min-w-full text-sm">
+          <thead class="bg-slate-100 text-slate-700">
+            <tr>
+              <th class="px-3 py-2 text-left font-semibold">👤 Deportista</th>
+              <th class="px-3 py-2 text-left font-semibold">🚴 Club/Equipo</th>
+              <th class="px-3 py-2 text-left font-semibold">🏳️ C.A.</th>
+              <th class="px-3 py-2 text-center font-semibold">Pos. Mocejón</th>
+              <th class="px-3 py-2 text-center font-semibold">Pts. Mocejón</th>
+              <th class="px-3 py-2 text-center font-semibold">Pos. Almansa</th>
+              <th class="px-3 py-2 text-center font-semibold">Pts. Almansa</th>
+              <th class="px-3 py-2 text-center font-semibold">Pos. Ávila</th>
+              <th class="px-3 py-2 text-center font-semibold">Pts. Ávila</th>
+<th class="px-3 py-2 text-center font-semibold">Pos. Seseña</th>
+<th class="px-3 py-2 text-center font-semibold">Pts. Seseña</th>
+              <th class="px-3 py-2 text-center font-semibold">Σ Total</th>
+              <th class="px-3 py-2 text-center font-semibold">🏁 General</th>
+            </tr>
+          </thead>
+          <tbody id="tablaBody" class="[&_tr:nth-child(even)]:bg-slate-50"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="max-w-7xl mx-auto px-4 pb-8 pt-4 text-center text-xs text-slate-500">
+    Hecho con ❤️ y Tailwind.
+  </footer>
+
+  <script>
+    async function loadData() {
+      const res = await fetch("./data.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("No se pudo cargar data.json");
+      return await res.json();
+    }
+
+    function puntosPorPuesto(pos) {
+      if (typeof pos !== "number" || !isFinite(pos)) return 0;
+      const tabla = {
+        1:200,2:175,3:155,4:140,5:128,6:120,7:112,8:104,9:96,10:88,
+        11:82,12:76,13:70,14:64,15:58,16:54,17:50,18:46,19:42,20:38
+      };
+      if (tabla[pos]) return tabla[pos];
+      if (pos>=21 && pos<=30) return 28;
+      return 0;
+    }
+
+    const categoriaSelect=document.getElementById("categoriaSelect");
+    const tablaBody=document.getElementById("tablaBody");
+    const btnExport=document.getElementById("btnExport");
+
+    function keyName(s){return String(s||"").normalize("NFD").replace(/\p{Diacritic}/gu,"").toUpperCase().trim();}
+
+    function computeClasificacion(DATA,categoria){
+      const eventos=["Mocejón","Almansa","Ávila","Seseña"];
+      const porEvento={}; const allNames=new Set();
+      const keyName=s=>String(s||"").normalize("NFD").replace(/\p{Diacritic}/gu,"").toUpperCase().trim();
+      eventos.forEach(ev=>{
+        const arr=(DATA[ev]&&DATA[ev][categoria])?DATA[ev][categoria]:[];
+        porEvento[ev]=arr;
+        arr.forEach(r=>allNames.add(keyName(r.nombre)));
+      });
+      const idx={}; eventos.forEach(ev=>{ idx[ev]={}; (porEvento[ev]||[]).forEach(r=> idx[ev][keyName(r.nombre)]=r ); });
+      const rows=Array.from(allNames).map(k=>{
+        const rMo=idx["Mocejón"][k], rAl=idx["Almansa"][k], rAv=idx["Ávila"][k], rSe=idx["Seseña"][k];
+        const base=rMo||rAl||rAv||rSe||{club:"",ca:""};
+        const nombre=rMo?.nombre||rAl?.nombre||rAv?.nombre||rSe?.nombre||k;
+        const posMo=rMo?.pos??null, posAl=rAl?.pos??null, posAv=rAv?.pos??null, posSe=rSe?.pos??null;
+        const ptsMo=puntosPorPuesto(posMo), ptsAl=puntosPorPuesto(posAl), ptsAv=puntosPorPuesto(posAv), ptsSe=puntosPorPuesto(posSe);
+        const total=ptsMo+ptsAl+ptsAv+ptsSe;
+        return {nombre,club:base.club,ca:base.ca,posMo,ptsMo,posAl,ptsAl,posAv,ptsAv,posSe,ptsSe,total};
+      });
+      rows.sort((a,b)=> b.total-a.total || a.nombre.localeCompare(b.nombre,"es",{sensitivity:"base"}));
+      rows.forEach((r,i)=>r.general=i+1);
+      return rows;
+    }
+    function renderTabla(rows){
+      const fmtPos=p=>(typeof p==="number"?p:"<span class='muted'>—</span>");
+      const fmtPts=p=>(p??0);
+      tablaBody.innerHTML=rows.map(r=>`<tr class="hover:bg-amber-50 transition">
+  <td class="px-3 py-2 font-semibold">${r.nombre}</td>
+  <td class="px-3 py-2">${r.club || "<span class='muted'>—</span>"}</td>
+  <td class="px-3 py-2">${r.ca || "<span class='muted'>—</span>"}</td>
+  <td class="px-3 py-2 text-center">${fmtPos(r.posMo)}</td>
+  <td class="px-3 py-2 text-center">${fmtPts(r.ptsMo)}</td>
+  <td class="px-3 py-2 text-center">${fmtPos(r.posAl)}</td>
+  <td class="px-3 py-2 text-center">${fmtPts(r.ptsAl)}</td>
+  <td class="px-3 py-2 text-center">${fmtPos(r.posAv)}</td>
+  <td class="px-3 py-2 text-center">${fmtPts(r.ptsAv)}</td>
+<td class="px-3 py-2 text-center">${fmtPos(r.posSe)}</td>
+<td class="px-3 py-2 text-center">${fmtPts(r.ptsSe)}</td>
+  <td class="px-3 py-2 text-center font-bold">${r.total}</td>
+  <td class="px-3 py-2 text-center"><span class="inline-flex w-10 justify-center rounded-full bg-blue-600 text-white font-bold">${r.general}</span></td>
+</tr>`).join("");
+    }
+
+    async function init(){
+      const DATA=await loadData();
+      const categorias=new Set();
+      for(const e of Object.keys(DATA))for(const c of Object.keys(DATA[e]))categorias.add(c);
+      const arr=Array.from(categorias).sort((a,b)=>a.localeCompare(b,"es",{sensitivity:"base"}));
+      categoriaSelect.innerHTML=arr.map(c=>`<option value="${c}">${c}</option>`).join("");
+      categoriaSelect.value="Principiantes";
+      const update=()=>{
+        const cat=categoriaSelect.value;
+        const rows=computeClasificacion(DATA,cat);
+        renderTabla(rows);
+      };
+      categoriaSelect.addEventListener("change",update);
+      btnExport.addEventListener("click",()=>{
+        const cat=categoriaSelect.value;
+        const rows=computeClasificacion(DATA,cat);
+        const encabezados=["Nombre","Club","CA","PosMocejón","PtsMocejón","PosAlmansa","PtsAlmansa","PosÁvila","PtsÁvila","PosSeseña","PtsSeseña","Total","General"];
+        const lines=[encabezados.join(",")];
+        rows.forEach(r=>lines.push([r.nombre,r.club,r.ca,r.posMo,r.ptsMo,r.posAl,r.ptsAl,r.posAv,r.ptsAv,r.posSe,r.ptsSe,r.total,r.general].join(",")));
+        const blob=new Blob([lines.join("\n")],{type:"text/csv;charset=utf-8;"});
+        const a=document.createElement("a");
+        a.href=URL.createObjectURL(blob);
+        a.download=`clasificacion_${cat}.csv`;
+        a.click();
+      });
+      update();
+    }
+    init();
+  </script>
+</body>
+</html>
