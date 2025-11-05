@@ -1,0 +1,3336 @@
+{
+  "Mocejón": {
+    "Promesas": [
+      {
+        "pos": 1,
+        "dorsal": 211,
+        "nombre": "ANGEL PEREZ SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 201,
+        "nombre": "MARCOS GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 203,
+        "nombre": "LUCAS SANZ ALCOBER",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 207,
+        "nombre": "SAMUEL CAÑUELO VAZQUEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 213,
+        "nombre": "RUBEN DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 208,
+        "nombre": "GABRIEL REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 7,
+        "dorsal": 209,
+        "nombre": "LEO GARCIA ORTEGO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 214,
+        "nombre": "LEO GONZALEZ MARQUINA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 202,
+        "nombre": "DARIO AYUSO ALEJANDRE",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 210,
+        "nombre": "ERICH NARVAEZ REVILLA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 216,
+        "nombre": "YERAY SAN MATIAS HELLIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 215,
+        "nombre": "ALEJANDRO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 212,
+        "nombre": "ERIK CHICON SANTANA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 204,
+        "nombre": "PABLO CAMPOS ARROYO",
+        "club": "INDEPENDIENTE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 15,
+        "dorsal": 205,
+        "nombre": "TIAGO GARCIA-ABAD PEREIRA",
+        "club": "INDEPENDIENTE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 16,
+        "dorsal": 206,
+        "nombre": "NOAH GARRIDO SANCHEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      }
+    ],
+    "Principiantes": [
+      {
+        "pos": 1,
+        "dorsal": 243,
+        "nombre": "DANIEL DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 238,
+        "nombre": "HUGO DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 233,
+        "nombre": "MARC DE LA BARRERA GUINDEL",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 240,
+        "nombre": "DANIEL GIL SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 244,
+        "nombre": "MATEO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 237,
+        "nombre": "DIEGO MORENO ALCOLEA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 228,
+        "nombre": "UNAI MARTINEZ RUJAS",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 224,
+        "nombre": "MARTIN RUIZ RUIZ",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 9,
+        "dorsal": 223,
+        "nombre": "ANGEL GRANADOS RODRIGUEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 234,
+        "nombre": "MANUEL ESCRIBANO ARINERO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 226,
+        "nombre": "MARTIN CARCELES REDONDO",
+        "club": "EMTBM C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 225,
+        "nombre": "HUGO SANTIAGO CERVERA",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 13,
+        "dorsal": 230,
+        "nombre": "IZAN GONZALEZ GONZALEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 232,
+        "nombre": "PABLO BERMEJO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 241,
+        "nombre": "AXEL MALDONADO TORO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 231,
+        "nombre": "JOEL GONZALEZ GONZALEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 239,
+        "nombre": "MARIO DURANDEZ SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 235,
+        "nombre": "THIAGO DE ANDREA SERNA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 342,
+        "nombre": "MATEO CALVO ROMERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 229,
+        "nombre": "EDUARD CHICINAS",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      }
+    ],
+    "Alevín": [
+      {
+        "pos": 1,
+        "dorsal": 269,
+        "nombre": "ASIER ALVAREZ GIL",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 274,
+        "nombre": "VALENTIN KORZYNNIKOV SHYPAK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 255,
+        "nombre": "HECTOR GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 283,
+        "nombre": "NINO ULLOA COSTA",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 5,
+        "dorsal": 261,
+        "nombre": "JOSE MARTIN ARRAY",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 282,
+        "nombre": "ENZO GARCIA SANCHEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 7,
+        "dorsal": 265,
+        "nombre": "IVAN ESCALANTE MORON",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 276,
+        "nombre": "IVAN DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 271,
+        "nombre": "MARCO GARCIA ORTEGO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 266,
+        "nombre": "HUGO GARCIA DEL RIO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 256,
+        "nombre": "ALVARO VALVERDE ALONSO",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 257,
+        "nombre": "ALEJANDRO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 13,
+        "dorsal": 278,
+        "nombre": "MARTIN BAUTISTA ABID",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 281,
+        "nombre": "HERNAN ALBURQUERQUE PEREZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 15,
+        "dorsal": 275,
+        "nombre": "PABLO MORENO SANZ",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 270,
+        "nombre": "VICTOR GARCIA MARTIN",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 262,
+        "nombre": "HUGO GONZALEZ BARRIOS",
+        "club": "EMTBM C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 260,
+        "nombre": "HUGO GONJAR SANCHEZ DE DAMASO",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 19,
+        "dorsal": 284,
+        "nombre": "URHO ANTERO TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 264,
+        "nombre": "AIMAR ALDALUR ARELLANO",
+        "club": "INDEPENDIENTE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 21,
+        "dorsal": 277,
+        "nombre": "ALONSO SERRANO MEDINA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "CLM"
+      },
+      {
+        "pos": 22,
+        "dorsal": 259,
+        "nombre": "ALVARO CALERO SERRANO",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 23,
+        "dorsal": 263,
+        "nombre": "HUGO TORRES SANCHO",
+        "club": "EMTBM C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 24,
+        "dorsal": 279,
+        "nombre": "ALEX CHICON SANTANA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 25,
+        "dorsal": 280,
+        "nombre": "AARON CUBILLO RODRIGUEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 26,
+        "dorsal": 258,
+        "nombre": "IGNACIO SANCHEZ PEREZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 27,
+        "dorsal": 268,
+        "nombre": "GUILLERMO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      }
+    ],
+    "Alevín Femenino": [
+      {
+        "pos": 1,
+        "dorsal": 285,
+        "nombre": "ADRIANA AGUILERA CUARTANGO",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 292,
+        "nombre": "VALERIA SANCHEZ-QUIÑONES RIESCO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 286,
+        "nombre": "NOA CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 290,
+        "nombre": "FRIDA MARTI TERRON",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 288,
+        "nombre": "LIA GARRIDO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 291,
+        "nombre": "ALEJANDRA HERNANDEZ DIAZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 293,
+        "nombre": "MIA LLORENTE ANTOLIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      }
+    ],
+    "Infantil": [
+      {
+        "pos": 1,
+        "dorsal": 312,
+        "nombre": "DANIEL SAEZ CABALLERO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 317,
+        "nombre": "DANIEL DIAZ LOPEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 307,
+        "nombre": "GONZALO MARIA REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 315,
+        "nombre": "MARCOS LOPEZ MOLINA",
+        "club": "TODO BICI TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 310,
+        "nombre": "ASIER CEZON LAZARO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 314,
+        "nombre": "MARCOS SEGURA PEREZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 295,
+        "nombre": "FRANCISCO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 8,
+        "dorsal": 302,
+        "nombre": "ASIER PORRAS MERIDA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 309,
+        "nombre": "RAUL SEMPERE PEREZ",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 311,
+        "nombre": "MARCOS REMON SIRUCEK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 316,
+        "nombre": "ALVARO MARTINEZ AREVALO",
+        "club": "TODO BICI TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 12,
+        "dorsal": 300,
+        "nombre": "DANIEL ARIJA MEDINA",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 301,
+        "nombre": "MIGUEL HERVAS ESTRINGANA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 305,
+        "nombre": "ADRIAN ALMANSA CEPRIAN",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 15,
+        "dorsal": 303,
+        "nombre": "NACHO TORRES SANCHO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 298,
+        "nombre": "ORIOL PLAZA RETUERTA",
+        "club": "COSLADA C.E.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 322,
+        "nombre": "DIEGO GONZALEZ MONTES",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 18,
+        "dorsal": 306,
+        "nombre": "DANIEL MORCUENDE ROSILLO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 19,
+        "dorsal": 319,
+        "nombre": "IZAN LLORENTE MONTERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 320,
+        "nombre": "VICTOR MARTIN ROMERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 21,
+        "dorsal": 296,
+        "nombre": "ASIER RODRIGUEZ RIOS",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 22,
+        "dorsal": 325,
+        "nombre": "TAISTO NESTORI TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 23,
+        "dorsal": 308,
+        "nombre": "MARCOS RODRIGUEZ DIAZ",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 24,
+        "dorsal": 323,
+        "nombre": "MARCOS RAMOS GONZALEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 25,
+        "dorsal": 324,
+        "nombre": "IVAN ZARAPUZ ONTORIA",
+        "club": "UVES BIKES C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 26,
+        "dorsal": 321,
+        "nombre": "RODRIGO SABADELL ROJO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 27,
+        "dorsal": 318,
+        "nombre": "FRANCISCO DIAZ MARTIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 28,
+        "dorsal": 297,
+        "nombre": "MIGUEL LOPEZ LOPEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      }
+    ],
+    "Cadete": [
+      {
+        "pos": 1,
+        "dorsal": 48,
+        "nombre": "ASIER GOMEZ RODRIGUEZ",
+        "club": "SALCHI-HONTORIA-MATRIX",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 63,
+        "nombre": "HUGO NARVAEZ REVILLA",
+        "club": "SANSE-ELECOX",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 62,
+        "nombre": "ALBERTO GARCIA MARTIN",
+        "club": "SANSE-ELECOX",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 60,
+        "nombre": "GUILLERMO REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 51,
+        "nombre": "MARCO MASSARO ALEJOS",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 50,
+        "nombre": "DIEGO GARCIA GARCIA",
+        "club": "ENTRENAMIENTOCICLISMO.COM CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 61,
+        "nombre": "BRUNO MARTI TERRON",
+        "club": "TRIPORTER-OXIONA-E.C.MAGRO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 49,
+        "nombre": "ALEJANDRO BLAZQUEZ GOMEZ",
+        "club": "HYD - CIUDAD DE SALAMANCA",
+        "ca": "CYL"
+      },
+      {
+        "pos": 9,
+        "dorsal": 42,
+        "nombre": "HUGO CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 55,
+        "nombre": "ANGELO SANCHEZ-QUIÑONES RIESCO",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 54,
+        "nombre": "MARIO AREVALO PATO",
+        "club": "E.C. SAMUEL VILLACASTIN",
+        "ca": "CYL"
+      },
+      {
+        "pos": 12,
+        "dorsal": 52,
+        "nombre": "GONZALO VEGA FRAILE",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 43,
+        "nombre": "DANIEL TABOADA BASALLOTE",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 14,
+        "dorsal": 56,
+        "nombre": "NICOLAS DE LAS HERAS PASANDIN",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 44,
+        "nombre": "PEDRO BERNARDO CASTRO DE LA SERNA",
+        "club": "EQUIPO CADETE NORINVER IMPALAG",
+        "ca": "CYL"
+      },
+      {
+        "pos": 16,
+        "dorsal": 46,
+        "nombre": "MARTIN GARCIA DEL CASTILLO",
+        "club": "COSLADA C.E.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 68,
+        "nombre": "SAMUEL MENDOZA RUBIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 41,
+        "nombre": "MARCOS BLANCO MARQUEZ",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 57,
+        "nombre": "HUGO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 69,
+        "nombre": "PABLO SANTIAGO MUÑOZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 21,
+        "dorsal": 45,
+        "nombre": "SAMUEL REDONDO BLANCO",
+        "club": "EQUIPO CADETE NORINVER IMPALAG",
+        "ca": "MAD"
+      },
+      {
+        "pos": 22,
+        "dorsal": 59,
+        "nombre": "JUAN MARIUSZ DEL RIO WIERZCHOWSKA",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 23,
+        "dorsal": 53,
+        "nombre": "MIGUEL MARTINEZ RUJAS",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 24,
+        "dorsal": 66,
+        "nombre": "BELTRAN GONZALEZ DEL BARRIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 25,
+        "dorsal": 70,
+        "nombre": "OSCAR MARTINEZ VILLAVERDE",
+        "club": "VILLA DEL PRADO U.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 26,
+        "dorsal": 65,
+        "nombre": "GONZALO SANCHEZ AGüERO",
+        "club": "TALAVERA J. POLO CLUB CICLISTA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 27,
+        "dorsal": 67,
+        "nombre": "MIGUEL ANGEL MARTIN RODRIGUEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      }
+    ]
+  },
+  "Almansa": {
+    "Promesas": [
+      {
+        "pos": 1,
+        "dorsal": 202,
+        "nombre": "ALEJANDRO OLAYA PARDO",
+        "club": "ILICITANA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 2,
+        "dorsal": 206,
+        "nombre": "ENZO VALLES LOPEZ",
+        "club": "LA FORCA, PC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 3,
+        "dorsal": 205,
+        "nombre": "DANIEL RODRIGUEZ SANJUAN",
+        "club": "LA FORCA, PC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 4,
+        "dorsal": 211,
+        "nombre": "ERICH NARVAEZ REVILLA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 214,
+        "nombre": "LUCAS SANZ ALCOBER",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 201,
+        "nombre": "TALOS GARCIA ORTEGA",
+        "club": "GUTI VINALESA, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 7,
+        "dorsal": 207,
+        "nombre": "MARC PRATS CLIMENT",
+        "club": "INDEPENDIENTE",
+        "ca": "VLC"
+      },
+      {
+        "pos": 8,
+        "dorsal": 215,
+        "nombre": "GABRIEL REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 9,
+        "dorsal": 216,
+        "nombre": "ALEX COLOMA CHAMORRO",
+        "club": "AM SONIDO-ENERGYM, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 10,
+        "dorsal": 218,
+        "nombre": "RUBEN DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 213,
+        "nombre": "NOEL PINA MUNERA",
+        "club": "IJES SOLAR - HIGH LEVEL",
+        "ca": "VLC"
+      },
+      {
+        "pos": 12,
+        "dorsal": 204,
+        "nombre": "ABEL BAIDES PEINADO",
+        "club": "CICLISTA CIUDAD DE ALBACETE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 13,
+        "dorsal": 208,
+        "nombre": "ENZO GOMEZ BIOT",
+        "club": "LA FORCA, PC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 14,
+        "dorsal": 210,
+        "nombre": "NOAH GARRIDO SANCHEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      }
+    ],
+    "Principiantes": [
+      {
+        "pos": 1,
+        "dorsal": 234,
+        "nombre": "GAEL OLAYA CARRILLO",
+        "club": "ILICITANA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 2,
+        "dorsal": 249,
+        "nombre": "DANIEL DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 242,
+        "nombre": "MARC DE LA BARRERA GUINDEL",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 246,
+        "nombre": "HUGO DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 240,
+        "nombre": "LUCAS PAREJO RODRIGUEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 241,
+        "nombre": "JOSE MANUEL ANTOLINOS ARIAS",
+        "club": "C.C. APIÑONFIJO TEAM",
+        "ca": "MUR"
+      },
+      {
+        "pos": 7,
+        "dorsal": 239,
+        "nombre": "MARCELO WALS CERDA",
+        "club": "BIG BIKES CARLET, CD",
+        "ca": "VLC"
+      },
+      {
+        "pos": 8,
+        "dorsal": 247,
+        "nombre": "MATEO SANCHEZ PEREZ",
+        "club": "VILLAR - IMECA CYCLING",
+        "ca": "VLC"
+      },
+      {
+        "pos": 9,
+        "dorsal": 243,
+        "nombre": "MATEO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 248,
+        "nombre": "KILIAN GARCIA ROMERO",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 238,
+        "nombre": "OSCAR SERRANO MARTINEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 12,
+        "dorsal": 231,
+        "nombre": "ADRIAN GARCIA-RETAMERO SANCHEZ",
+        "club": "ILICITANA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 13,
+        "dorsal": 232,
+        "nombre": "MARCOS CHINCHILLA PEREZ",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 14,
+        "dorsal": 200,
+        "nombre": "PHILL VAN DEN BOSCH",
+        "club": "PERE JOAN CARAGOL ALTEA CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 15,
+        "dorsal": 236,
+        "nombre": "RAUL AZNAR PICAZO",
+        "club": "ILICITANA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 16,
+        "dorsal": 244,
+        "nombre": "AIMAR RUIZ SEBASTIA",
+        "club": "COSTA AZAHAR CASTELLON, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 17,
+        "dorsal": 237,
+        "nombre": "LEO BAIDES PEINADO",
+        "club": "CICLISTA CIUDAD DE ALBACETE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 18,
+        "dorsal": 245,
+        "nombre": "AXEL MALDONADO TORO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 233,
+        "nombre": "FRANCISCO MARTINEZ ORTIN",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 20,
+        "dorsal": 230,
+        "nombre": "JAUME GARAÑANA CANO",
+        "club": "GUTI VINALESA, CC",
+        "ca": "VLC"
+      }
+    ],
+    "Alevín": [
+      {
+        "pos": 1,
+        "dorsal": 274,
+        "nombre": "VALENTIN KORZYNNIKOV SHYPAK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 271,
+        "nombre": "HECTOR FORNELI OLIVARES",
+        "club": "IKASCOLA TX. AEL-RESPETAD 1,5",
+        "ca": "VLC"
+      },
+      {
+        "pos": 3,
+        "dorsal": 277,
+        "nombre": "BRUNO LOPEZ CHICLANO",
+        "club": "SAX, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 4,
+        "dorsal": 284,
+        "nombre": "ENZO GARCIA SANCHEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 5,
+        "dorsal": 288,
+        "nombre": "ALEX MORENO SERRANO",
+        "club": "ESCOLA CICLISTA PINEDO",
+        "ca": "VLC"
+      },
+      {
+        "pos": 6,
+        "dorsal": 283,
+        "nombre": "ASIER ALVAREZ GIL",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 262,
+        "nombre": "IZAN SERRANO DONAT",
+        "club": "BIG BIKES CARLET, CD",
+        "ca": "VLC"
+      },
+      {
+        "pos": 8,
+        "dorsal": 267,
+        "nombre": "IVAN ESCALANTE MORON",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 285,
+        "nombre": "IVAN DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 272,
+        "nombre": "NINO ULLOA COSTA",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 11,
+        "dorsal": 263,
+        "nombre": "ALEJANDRO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 12,
+        "dorsal": 269,
+        "nombre": "HUGO GARCIA DEL RIO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 270,
+        "nombre": "LUCAS MARTI FRANCES",
+        "club": "RAFA VALLS, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 14,
+        "dorsal": 268,
+        "nombre": "JOSE MARTIN ARRAY",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 15,
+        "dorsal": 265,
+        "nombre": "IAN APARICIO RESA",
+        "club": "ESCOLA CICLISTA PINEDO",
+        "ca": "VLC"
+      },
+      {
+        "pos": 16,
+        "dorsal": 273,
+        "nombre": "MATEO GONZALEZ MONTES",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 279,
+        "nombre": "HERNAN ALBURQUERQUE PEREZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 18,
+        "dorsal": 275,
+        "nombre": "URHO ANTERO TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 264,
+        "nombre": "HUGO PAREJO RODRIGUEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 20,
+        "dorsal": 282,
+        "nombre": "AIMAR PINA MUNERA",
+        "club": "IJES SOLAR - HIGH LEVEL",
+        "ca": "VLC"
+      },
+      {
+        "pos": 21,
+        "dorsal": 286,
+        "nombre": "ALONSO SERRANO MEDINA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "CLM"
+      },
+      {
+        "pos": 22,
+        "dorsal": 280,
+        "nombre": "ERIC PEREZ MARTINEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 23,
+        "dorsal": 260,
+        "nombre": "JOAN FRANCISCO MIRAGANY",
+        "club": "IKASCOLA TX. AEL-RESPETAD 1,5",
+        "ca": "VLC"
+      },
+      {
+        "pos": 24,
+        "dorsal": 278,
+        "nombre": "AIMAR IBORRA BERNABE",
+        "club": "SAX, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 25,
+        "dorsal": 266,
+        "nombre": "MANUEL ANTOLINOS TEBAS",
+        "club": "C.C. APIÑONFIJO TEAM",
+        "ca": "MUR"
+      },
+      {
+        "pos": 26,
+        "dorsal": 261,
+        "nombre": "LEON MARTINEZ GOMEZ",
+        "club": "ILICITANA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 27,
+        "dorsal": 281,
+        "nombre": "JUAN ANTONIO PINA GUILL",
+        "club": "IJES SOLAR - HIGH LEVEL",
+        "ca": "VLC"
+      },
+      {
+        "pos": 28,
+        "dorsal": 289,
+        "nombre": "JOAN LLACER SANCHEZ",
+        "club": "IJES SOLAR - HIGH LEVEL",
+        "ca": "VLC"
+      },
+      {
+        "pos": 29,
+        "dorsal": 276,
+        "nombre": "ARTURO RUBIO SANCHEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 30,
+        "dorsal": 287,
+        "nombre": "DAVID LOPEZ TOMAS",
+        "club": "ESCUELA CICLISTA RAYMAR",
+        "ca": "CLM"
+      }
+    ],
+    "Alevín Femenino": [
+      {
+        "pos": 1,
+        "dorsal": 292,
+        "nombre": "VALERIA SANCHEZ-QUIÑONES RIESCO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 290,
+        "nombre": "NOA CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 293,
+        "nombre": "LIA GARRIDO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 294,
+        "nombre": "ALEJANDRA HERNANDEZ DIAZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 291,
+        "nombre": "ALBA ROBERTO SUAY",
+        "club": "PROMESAS DE ALFAFAR, CC",
+        "ca": "VLC"
+      }
+    ],
+    "Infantil": [
+      {
+        "pos": 1,
+        "dorsal": 336,
+        "nombre": "GONZALO MARIA REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 2,
+        "dorsal": 330,
+        "nombre": "JAVIER DELEGIDO PLANELLES",
+        "club": "ESCUELA CICLISMO JOSE SABATER",
+        "ca": "VLC"
+      },
+      {
+        "pos": 3,
+        "dorsal": 335,
+        "nombre": "DANIEL DIAZ LOPEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 325,
+        "nombre": "ASIER PORRAS MERIDA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 316,
+        "nombre": "MARCOS LOPEZ MOLINA",
+        "club": "TODO BICI TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 338,
+        "nombre": "ASIER CEZON LAZARO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 323,
+        "nombre": "VICENTE SALA ABAD",
+        "club": "NOVELDA, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 8,
+        "dorsal": 327,
+        "nombre": "LEO CAMPOS GALVEZ",
+        "club": "ESCUELA CICLISMO JOSE SABATER",
+        "ca": "VLC"
+      },
+      {
+        "pos": 9,
+        "dorsal": 328,
+        "nombre": "DANIEL ARIJA MEDINA",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 324,
+        "nombre": "RAUL SEMPERE PEREZ",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 332,
+        "nombre": "RAUL RUBIO SANCHEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 12,
+        "dorsal": 331,
+        "nombre": "IKER HIRALDO GARCIA",
+        "club": "ESCUELA CICLISMO JOSE SABATER",
+        "ca": "VLC"
+      },
+      {
+        "pos": 13,
+        "dorsal": 321,
+        "nombre": "FRANCISCO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 14,
+        "dorsal": 315,
+        "nombre": "ADRIAN ALMANSA CEPRIAN",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 15,
+        "dorsal": 326,
+        "nombre": "LEO RUIZ SEBASTIA",
+        "club": "IN BIKE-CYCLING METRIC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 16,
+        "dorsal": 320,
+        "nombre": "MANUEL MUÑOZ CHINCHILLA",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 17,
+        "dorsal": 312,
+        "nombre": "DANIEL MORCUENDE ROSILLO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 18,
+        "dorsal": 310,
+        "nombre": "ALEJANDRO ARQUES PEREZ",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 19,
+        "dorsal": 319,
+        "nombre": "PABLO HERRERO PARRA",
+        "club": "VILA-REAL, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 20,
+        "dorsal": 311,
+        "nombre": "ANGEL GARCIA VAL",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 21,
+        "dorsal": 313,
+        "nombre": "JORGE PALAO SANCHEZ",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 22,
+        "dorsal": 317,
+        "nombre": "MIGUEL SERRANO MARTINEZ",
+        "club": "PEÑA CICLISTA EL CACHO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 23,
+        "dorsal": 329,
+        "nombre": "TAISTO NESTORI TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 24,
+        "dorsal": 314,
+        "nombre": "LUCAS SALA HERNANDEZ",
+        "club": "AM SONIDO-ENERGYM, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 25,
+        "dorsal": 322,
+        "nombre": "MANEL SAEZ POVEDA",
+        "club": "IN BIKE-CYCLING METRIC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 26,
+        "dorsal": 318,
+        "nombre": "RIBERY MARTIN VELEZ MOLINA",
+        "club": "ESCUELA CICLISTA YECLA",
+        "ca": "MUR"
+      },
+      {
+        "pos": 27,
+        "dorsal": 333,
+        "nombre": "MIGUEL LOPEZ LOPEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 28,
+        "dorsal": 337,
+        "nombre": "ALBERTO RETAMOSA REVIEJO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      }
+    ],
+    "Cadete": [
+      {
+        "pos": 1,
+        "dorsal": 32,
+        "nombre": "HUGO CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 2,
+        "dorsal": 38,
+        "nombre": "ALEJANDRO BLAZQUEZ GOMEZ",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 3,
+        "dorsal": 37,
+        "nombre": "MARCO MASSARO ALEJOS",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 43,
+        "nombre": "DIEGO GARCIA GARCIA",
+        "club": "ENTRENAMIENTOCICLISMO.COM CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 36,
+        "nombre": "GONZALO MUÑOZ SANCHEZ",
+        "club": "ESCUELA CICLISMO JOSE SABATER",
+        "ca": "VLC"
+      },
+      {
+        "pos": 6,
+        "dorsal": 39,
+        "nombre": "MARIO AREVALO PATO",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 7,
+        "dorsal": 42,
+        "nombre": "GUILLERMO REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 8,
+        "dorsal": 34,
+        "nombre": "NOE ROCHER CATALA",
+        "club": "VILLAR - IMECA CYCLING",
+        "ca": "VLC"
+      },
+      {
+        "pos": 9,
+        "dorsal": 41,
+        "nombre": "BELTRAN GONZALEZ DEL BARRIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 47,
+        "nombre": "FRAN DE VERA MORENO",
+        "club": "LA VILA JOIOSA, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 11,
+        "dorsal": 40,
+        "nombre": "ADRIAN RODRIGO CANTO",
+        "club": "VILLAR, UC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 12,
+        "dorsal": 33,
+        "nombre": "OLIVER DEL REY GONZALEZ",
+        "club": "ESCUELA CICLISMO JOSE SABATER",
+        "ca": "VLC"
+      },
+      {
+        "pos": 13,
+        "dorsal": 44,
+        "nombre": "IKER SANCHEZ PEREZ",
+        "club": "VILLAR - IMECA CYCLING",
+        "ca": "VLC"
+      },
+      {
+        "pos": 14,
+        "dorsal": 46,
+        "nombre": "HUGO BAQUERO BARTOLOME",
+        "club": "LA VILA JOIOSA, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 15,
+        "dorsal": 199,
+        "nombre": "ORIOL MENOR PARDO",
+        "club": "COSTA AZAHAR CASTELLON, CC",
+        "ca": "VLC"
+      },
+      {
+        "pos": 16,
+        "dorsal": 35,
+        "nombre": "RUBEN GOMARIZ PRIETO",
+        "club": "C.C. APIÑONFIJO TEAM",
+        "ca": "MUR"
+      }
+    ]
+  },
+  "Ávila": {
+    "Promesas": [
+      {
+        "pos": 1,
+        "dorsal": 189,
+        "nombre": "MARCOS GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 196,
+        "nombre": "RUBEN DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 188,
+        "nombre": "OLIVER MARTIN VELASCO",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      },
+      {
+        "pos": 4,
+        "dorsal": 195,
+        "nombre": "ERICH NARVAEZ REVILLA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 193,
+        "nombre": "LEO GARCIA ORTEGO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 187,
+        "nombre": "ALONSO MARTIN VELASCO",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      },
+      {
+        "pos": 7,
+        "dorsal": 194,
+        "nombre": "DANIEL GUISADO SANZ",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 198,
+        "nombre": "YERAY SAN MATIAS HELLIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 197,
+        "nombre": "ALEJANDRO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 190,
+        "nombre": "NOAH GARRIDO SANCHEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 191,
+        "nombre": "EFREN LOPEZ GOMEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "CYL"
+      }
+    ],
+    "Principiantes": [
+      {
+        "pos": 1,
+        "dorsal": 154,
+        "nombre": "DANIEL DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 145,
+        "nombre": "MARC DE LA BARRERA GUINDEL",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 148,
+        "nombre": "DIEGO MORENO ALCOLEA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 149,
+        "nombre": "HUGO DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 155,
+        "nombre": "MATEO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 151,
+        "nombre": "DANIEL GIL SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 144,
+        "nombre": "PABLO BERMEJO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 138,
+        "nombre": "ENZO AREVALO CUESTA",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      },
+      {
+        "pos": 9,
+        "dorsal": 153,
+        "nombre": "AXEL MALDONADO TORO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 156,
+        "nombre": "JORGE MARTIN ROMERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 142,
+        "nombre": "UNAI MARTINEZ RUJAS",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 152,
+        "nombre": "LUCAS JARO MARTINEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 157,
+        "nombre": "YOEL BARBERO DOMINGUEZ",
+        "club": "PRODUCTOS CALTER-BAR EL TUNEL",
+        "ca": "CYL"
+      },
+      {
+        "pos": 14,
+        "dorsal": 141,
+        "nombre": "MARTIN RUIZ RUIZ",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 15,
+        "dorsal": 150,
+        "nombre": "MARIO DURANDEZ SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 139,
+        "nombre": "ANGEL GRANADOS RODRIGUEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 17,
+        "dorsal": 146,
+        "nombre": "THIAGO DE ANDREA SERNA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 140,
+        "nombre": "DARIO MORCUENDE CHOZAS",
+        "club": "CANDELEDA-GREDOS, C.D.F.C",
+        "ca": "CYL"
+      },
+      {
+        "pos": 19,
+        "dorsal": 147,
+        "nombre": "MARCOS GUISADO SANZ",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 143,
+        "nombre": "MARTIN VAZQUEZ SANCHEZ",
+        "club": "E.C. SAMUEL VILLACASTIN",
+        "ca": "CYL"
+      }
+    ],
+    "Alevín": [
+      {
+        "pos": 1,
+        "dorsal": 117,
+        "nombre": "VALENTIN KORZYNNIKOV SHYPAK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 114,
+        "nombre": "ASIER ALVAREZ GIL",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 123,
+        "nombre": "ENZO GARCIA SANCHEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 4,
+        "dorsal": 105,
+        "nombre": "HECTOR GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 110,
+        "nombre": "IVAN ESCALANTE MORON",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 296,
+        "nombre": "MARCO GARCIA ORTEGO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 113,
+        "nombre": "DAVID SANCHEZ DE CASTRO",
+        "club": "JAMONES ALJOMAR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 8,
+        "dorsal": 119,
+        "nombre": "IVAN DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 124,
+        "nombre": "NINO ULLOA COSTA",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 10,
+        "dorsal": 288,
+        "nombre": "HUGO GARCIA DEL RIO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 108,
+        "nombre": "JOSE MARTIN ARRAY",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 12,
+        "dorsal": 295,
+        "nombre": "MATEO GONZALEZ MONTES",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 292,
+        "nombre": "ALVARO ESCOBAR HARO",
+        "club": "COSLADA U.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 126,
+        "nombre": "URHO ANTERO TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 122,
+        "nombre": "HERNAN ALBURQUERQUE PEREZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 16,
+        "dorsal": 118,
+        "nombre": "PABLO MORENO SANZ",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 120,
+        "nombre": "ALONSO SERRANO MEDINA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "CLM"
+      },
+      {
+        "pos": 18,
+        "dorsal": 121,
+        "nombre": "MARTIN BAUTISTA ABID",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 125,
+        "nombre": "ALEJANDRO GARCIA BOCOS",
+        "club": "TURIASO, C.C.",
+        "ca": "ARA"
+      },
+      {
+        "pos": 20,
+        "dorsal": 112,
+        "nombre": "GUILLERMO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      }
+    ],
+    "Alevín Femenino": [
+      {
+        "pos": 1,
+        "dorsal": 171,
+        "nombre": "ADRIANA AGUILERA CUARTANGO",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 175,
+        "nombre": "VALERIA SANCHEZ-QUIÑONES RIESCO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 174,
+        "nombre": "ALEJANDRA HERNANDEZ DIAZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 173,
+        "nombre": "FRIDA MARTI TERRON",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 180,
+        "nombre": "NOA BLANCO SILVA",
+        "club": "CHAPAM-MORALEJO SELECCION",
+        "ca": "CYL"
+      },
+      {
+        "pos": 6,
+        "dorsal": 172,
+        "nombre": "LIA GARRIDO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 176,
+        "nombre": "MIA LLORENTE ANTOLIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 178,
+        "nombre": "ADRIANA BARBERO DOMINGUEZ",
+        "club": "PRODUCTOS CALTER-BAR EL TUNEL",
+        "ca": "CYL"
+      },
+      {
+        "pos": 9,
+        "dorsal": 179,
+        "nombre": "VALERIA ALVAREZ SANTOS",
+        "club": "CHAPAM-MORALEJO SELECCION",
+        "ca": "CYL"
+      }
+    ],
+    "Infantil": [
+      {
+        "pos": 1,
+        "dorsal": 300,
+        "nombre": "DANIEL DIAZ LOPEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 2,
+        "dorsal": 294,
+        "nombre": "GUILLERMO GONZALEZ CHAVES",
+        "club": "JAMONES ALJOMAR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 3,
+        "dorsal": 208,
+        "nombre": "GONZALO MARIA REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 88,
+        "nombre": "ASIER CEZON LAZARO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 94,
+        "nombre": "MARCOS LOPEZ MOLINA",
+        "club": "TODO BICI TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 297,
+        "nombre": "MARCOS REMON SIRUCEK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 206,
+        "nombre": "ADRIAN ALMANSA CEPRIAN",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 8,
+        "dorsal": 291,
+        "nombre": "ASIER PORRAS MERIDA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 205,
+        "nombre": "RAUL SEMPERE PEREZ",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 209,
+        "nombre": "DANIEL MORCUENDE ROSILLO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 293,
+        "nombre": "DANIEL ARIJA MEDINA",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 290,
+        "nombre": "NACHO TORRES SANCHO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 101,
+        "nombre": "SANTIAGO GARCIA BOCOS",
+        "club": "TURIASO, C.C.",
+        "ca": "ARA"
+      },
+      {
+        "pos": 14,
+        "dorsal": 99,
+        "nombre": "DIEGO GONZALEZ MONTES",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 15,
+        "dorsal": 199,
+        "nombre": "JULIO SIERRA ACOSTA",
+        "club": "E.C. SAMUEL VILLACASTIN",
+        "ca": "CYL"
+      },
+      {
+        "pos": 16,
+        "dorsal": 289,
+        "nombre": "ADRIAN CRESPO AGUADO",
+        "club": "MTB COLMENAR VIEJO C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 103,
+        "nombre": "NICOLAS HERNANDEZ RAPADO",
+        "club": "CHAPAM-MORALEJO SELECCION",
+        "ca": "CYL"
+      },
+      {
+        "pos": 18,
+        "dorsal": 299,
+        "nombre": "VICTOR MARTIN ROMERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 93,
+        "nombre": "MARCOS SEGURA PEREZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 89,
+        "nombre": "DANIEL HERNANDEZ MOLINA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 21,
+        "dorsal": 281,
+        "nombre": "TAISTO NESTORI TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 22,
+        "dorsal": 204,
+        "nombre": "ORIOL BLAZQUEZ JIMENEZ",
+        "club": "FUENLABRADA U.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 23,
+        "dorsal": 100,
+        "nombre": "MARCOS RAMOS GONZALEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 24,
+        "dorsal": 92,
+        "nombre": "ALBERTO RETAMOSA REVIEJO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 25,
+        "dorsal": 201,
+        "nombre": "FABIO AREVALO CUESTA",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      },
+      {
+        "pos": 26,
+        "dorsal": 202,
+        "nombre": "SANTIAGO QUINTANA MADERUELO",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      },
+      {
+        "pos": 27,
+        "dorsal": 211,
+        "nombre": "MIGUEL LOPEZ LOPEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 28,
+        "dorsal": 200,
+        "nombre": "PABLO ABELLON RAMIREZ",
+        "club": "ESCUELA CICLISTA CC 53X13",
+        "ca": "CYL"
+      }
+    ],
+    "Cadete": [
+      {
+        "pos": 1,
+        "dorsal": 233,
+        "nombre": "IZAN GALLEGO MARTIN",
+        "club": "SALCHI-HONTORIA-MATRIX",
+        "ca": "CLM"
+      },
+      {
+        "pos": 2,
+        "dorsal": 245,
+        "nombre": "HUGO NARVAEZ REVILLA",
+        "club": "SANSE-ELECOX",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 239,
+        "nombre": "ALVARO BUENO SALAN",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 4,
+        "dorsal": 234,
+        "nombre": "DIEGO GARCIA GARCIA",
+        "club": "ENTRENAMIENTOCICLISMO.COM CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 238,
+        "nombre": "ALEJANDRO BLAZQUEZ GOMEZ",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 6,
+        "dorsal": 237,
+        "nombre": "MARIO AREVALO PATO",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 7,
+        "dorsal": 235,
+        "nombre": "MARCO MASSARO ALEJOS",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 240,
+        "nombre": "PEDRO BERNARDO CASTRO DE LA SERNA",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 9,
+        "dorsal": 241,
+        "nombre": "ANGELO SANCHEZ-QUIÑONES RIESCO",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 246,
+        "nombre": "BELTRAN GONZALEZ DEL BARRIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 249,
+        "nombre": "PABLO SANTIAGO MUÑOZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 231,
+        "nombre": "MARCOS BLANCO MARQUEZ",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 248,
+        "nombre": "SAMUEL MENDOZA RUBIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 236,
+        "nombre": "MIGUEL MARTINEZ RUJAS",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 243,
+        "nombre": "MARCOS DELGADO DIEGUEZ",
+        "club": "MTB COLMENAR VIEJO C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 242,
+        "nombre": "HUGO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 244,
+        "nombre": "AITOR RODRIGO DOMINGUEZ",
+        "club": "CAJA RURAL DE SALAMANCA-EKT",
+        "ca": "CYL"
+      },
+      {
+        "pos": 18,
+        "dorsal": 251,
+        "nombre": "OSCAR MARTINEZ VILLAVERDE",
+        "club": "VILLA DEL PRADO U.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 247,
+        "nombre": "MIGUEL ANGEL MARTIN RODRIGUEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 20,
+        "dorsal": 252,
+        "nombre": "IKER ZURDO MARTIN",
+        "club": "CHAPAM-MORALEJO SELECCION",
+        "ca": "CYL"
+      },
+      {
+        "pos": 21,
+        "dorsal": 250,
+        "nombre": "DIEGO MARTINEZ GARCIA",
+        "club": "TURIASO, C.C.",
+        "ca": "NAV"
+      },
+      {
+        "pos": 22,
+        "dorsal": 253,
+        "nombre": "VICTOR MARDOMINGO GALA",
+        "club": "ZAMORA ENAMORA-AYTO VILLARALBO",
+        "ca": "CYL"
+      }
+    ]
+  },
+  "Seseña": {
+    "Promesas": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "ANGEL PEREZ SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "LUCAS SANZ ALCOBER",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "MARCOS GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "ERICH NARVAEZ REVILLA",
+        "club": "—",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "GABRIEL REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "RUBEN DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "BARBA CUBERO JAIME",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 0,
+        "nombre": "AYUSO ALEJANDR DARIO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 9,
+        "dorsal": 0,
+        "nombre": "LEO GARCIA ORTEGO",
+        "club": "SAN SEBASTIÁN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 0,
+        "nombre": "LEO GONZALEZ MARQUINA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 0,
+        "nombre": "DANIEL GUISADO SANZ",
+        "club": "SAN SEBASTIÁN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 0,
+        "nombre": "YERAY SAN MATIAS HELLIN",
+        "club": "—",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 0,
+        "nombre": "ALEJANDRO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 0,
+        "nombre": "PABLO CAMPOS ARROYO",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 0,
+        "nombre": "ERIK CHICON SANTANA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 0,
+        "nombre": "NOAH GARRIDO SANCHEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 0,
+        "nombre": "ARDILA MEDINA RAUL",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 0,
+        "nombre": "TIAGO GARCIA-ABAD PEREIRA",
+        "club": "INDEPENDIENTE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 19,
+        "dorsal": 0,
+        "nombre": "EFREN LOPEZ GOMEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "CYL"
+      }
+    ],
+    "Principiantes": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "HUGO DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "MARC DE LA BARRERA GUINDEL",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "DANIEL DE LA RUA HERNANDEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "DIEGO MORENO ALCOLEA",
+        "club": "SAN SEBASTIÁN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "MATEO LOZANO ALVAREZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "MARTINEZ RUIZAS UNAI",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "DANIEL GIL SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 0,
+        "nombre": "PABLO BERMEJO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 0,
+        "nombre": "AXEL MALDONADO TORO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 0,
+        "nombre": "ANGEL GRANADOS RODRIGUEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 0,
+        "nombre": "MARIO DURANDEZ SANCHEZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 0,
+        "nombre": "DE ANDRADA BERNA THIAGO",
+        "club": "SAN SEBASTIÁN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 0,
+        "nombre": "IZAN GONZALEZ GONZALEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 14,
+        "dorsal": 0,
+        "nombre": "MARCOS GUISADO SANZ",
+        "club": "SAN SEBASTIÁN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 0,
+        "nombre": "JURADO SERRANO MARCO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 0,
+        "nombre": "JOEL GONZALEZ GONZALEZ",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 0,
+        "nombre": "MATEO CALVO ROMERO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 0,
+        "nombre": "SANGRADOR SIMAES RUBEN",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      }
+    ],
+    "Principiantes Femenino": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "PORRAS MERIDA CELIA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "BLANCO SAN INOCENTE VERA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "PEREZ DEL VAL SOFIA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "BALMACEDA BLANCO VIOLETA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "SERRANO MEDINA ADRIANA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "GONZALEZ MONTES LAURA",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "GONZALEZ MARQUINA ERIKA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      }
+    ],
+    "Alevín": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "ASIER ALVAREZ GIL",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "NINO ULLOA COSTA",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "VALENTIN KORZYNNIKOV SHYPAK",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "ENZO GARCIA SANCHEZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "HECTOR GONZALEZ MARTINEZ",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "IVAN ESCALANTE MORON",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "MARCO GARCIA ORTEGO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 0,
+        "nombre": "IVAN DEL POZO MORENO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 0,
+        "nombre": "HUGO GARCIA DEL RIO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 0,
+        "nombre": "ALVARO ESCOBAR HARO",
+        "club": "COSLADA U.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 0,
+        "nombre": "ALVARO VALVERDE ALONSO",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 0,
+        "nombre": "JOSE MARTIN ARRAY",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 13,
+        "dorsal": 0,
+        "nombre": "ALEJANDRO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 14,
+        "dorsal": 0,
+        "nombre": "HERNAN ALBUQUERQUE PEREZ",
+        "club": "VERTIZE ACADEMY",
+        "ca": "CYL"
+      },
+      {
+        "pos": 15,
+        "dorsal": 0,
+        "nombre": "MATEO GONZALEZ MONTES",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 0,
+        "nombre": "MARTIN BAUTISTA ABID",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 17,
+        "dorsal": 0,
+        "nombre": "URHO ANTERO TENHIALA",
+        "club": "YELLOW MAD BMX, C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 0,
+        "nombre": "AIMAR ALDAIR AURELIANO",
+        "club": "INDEPENDIENTE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 0,
+        "nombre": "PABLO MORENO SANZ",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 0,
+        "nombre": "PABLO JURADO SERRANO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 21,
+        "dorsal": 0,
+        "nombre": "ALONSO SERRANO MEDINA",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 22,
+        "dorsal": 0,
+        "nombre": "ALEX CHICON SANTANA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 23,
+        "dorsal": 0,
+        "nombre": "ALVARO CALERO SERRANO",
+        "club": "EISUP, MTB FUENTE DEL MORO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 24,
+        "dorsal": 0,
+        "nombre": "JAIME BLAZQUEZ SANTA CRUZ",
+        "club": "CCB - FUNDACION CIRCULO BURGOS",
+        "ca": "CYL"
+      },
+      {
+        "pos": 25,
+        "dorsal": 0,
+        "nombre": "GUILLERMO ALVAREZ PRADA",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 26,
+        "dorsal": 0,
+        "nombre": "GUILLERMO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      }
+    ],
+    "Alevín Femenino": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "ADRIANA AGUILERA CUARTANGO",
+        "club": "ACADEMIA CICLISTA C.D.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "VALERIA SANCHEZ-QUINONES RIESCO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "NOA CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "LIA GARRIDO SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "FRIDA MARTI TERRON",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "ALEJANDRA HERNANDEZ DIAZ",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "MIA LLORENTE ANTOLIN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      }
+    ],
+    "Infantil": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "GONZALO MARIA REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "DANIEL DIAZ LOPEZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "ASIER PORRAS MERIDA",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "ASIER CEZON LAZARO",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "RAUL SEMPERE PEREZ",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "MARCOS LOPEZ MOLINA",
+        "club": "TODO BIKE TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "MARTINEZ SANCHO NACHO",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 8,
+        "dorsal": 0,
+        "nombre": "NICOLAS FERNANDEZ AARON",
+        "club": "ESCUELA DE CICLISMO ALOVERA CDE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 9,
+        "dorsal": 0,
+        "nombre": "ADRIAN ALMANSA CEPRIAN",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 10,
+        "dorsal": 0,
+        "nombre": "MORCILLO REDONDO DANIEL",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 11,
+        "dorsal": 0,
+        "nombre": "REMON SIROCK MARCOS",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 0,
+        "nombre": "MARTINEZ ALVARO ALVARO",
+        "club": "TODO BIKE TORRIJOS",
+        "ca": "CLM"
+      },
+      {
+        "pos": 13,
+        "dorsal": 0,
+        "nombre": "FRANCISCO RODRIGUEZ BERMEJO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 14,
+        "dorsal": 0,
+        "nombre": "ARIA MEDINA DANIEL",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 0,
+        "nombre": "ASIER RODRIGUEZ RIOS",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 16,
+        "dorsal": 0,
+        "nombre": "NICOLAS HERNANDEZ RAPADO",
+        "club": "CHAMARTIN-SECCION SELECCION",
+        "ca": "CYL"
+      },
+      {
+        "pos": 17,
+        "dorsal": 0,
+        "nombre": "ORIOL PLAZA RETUERTA",
+        "club": "COSLADA C.C.E.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 18,
+        "dorsal": 0,
+        "nombre": "TAMAROSO AREVALO ALBERTO",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 19,
+        "dorsal": 0,
+        "nombre": "BENTO MENDOZA DANIEL",
+        "club": "SPORTPLA KIDS ARROYOMOLINOS CD",
+        "ca": "MAD"
+      },
+      {
+        "pos": 20,
+        "dorsal": 0,
+        "nombre": "DANIEL HERNANDEZ MOLINA",
+        "club": "SAN SEBAASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 21,
+        "dorsal": 0,
+        "nombre": "TENAILHA, TASTO NESTORI —",
+        "club": "YELLOW MAD BOX C.D.E",
+        "ca": "MAD"
+      },
+      {
+        "pos": 22,
+        "dorsal": 0,
+        "nombre": "LLORIENTE MONTERO IZAN",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 23,
+        "dorsal": 0,
+        "nombre": "PLAZA FELIPE IVAN",
+        "club": "SAN SEBASTIAN DE LOS REYES U.C",
+        "ca": "MAD"
+      },
+      {
+        "pos": 24,
+        "dorsal": 0,
+        "nombre": "SABADILLO ROU RODRIGO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 25,
+        "dorsal": 0,
+        "nombre": "ALDALUR ARELLANO AITOR",
+        "club": "INDEPENDIENTE",
+        "ca": "CLM"
+      },
+      {
+        "pos": 26,
+        "dorsal": 0,
+        "nombre": "MIGUEL LOPEZ LOPEZ",
+        "club": "ASOCIACION DEPORTIVA CAMARENA",
+        "ca": "CLM"
+      }
+    ],
+    "Cadete": [
+      {
+        "pos": 1,
+        "dorsal": 0,
+        "nombre": "DIEGO GARCIA GARCIA",
+        "club": "ENTRENAMIENTOCICLISMO.COM CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 2,
+        "dorsal": 0,
+        "nombre": "PEDRO BERNARDO CASTRO DE LA SERNA",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 3,
+        "dorsal": 0,
+        "nombre": "HUGO CIORDIA NORIEGO",
+        "club": "ALCARREÑA DE CICLISMO",
+        "ca": "CLM"
+      },
+      {
+        "pos": 4,
+        "dorsal": 0,
+        "nombre": "GUILLERMO REY PELAYO",
+        "club": "MTB ILARCURIS, C.D.E.",
+        "ca": "CLM"
+      },
+      {
+        "pos": 5,
+        "dorsal": 0,
+        "nombre": "ALEJANDRO BLAZQUEZ GOMEZ",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 6,
+        "dorsal": 0,
+        "nombre": "GONZALO VEGA FRAILE",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 7,
+        "dorsal": 0,
+        "nombre": "MARIO AREVALO PATO",
+        "club": "VERTIZE TEAM - MMR",
+        "ca": "CYL"
+      },
+      {
+        "pos": 8,
+        "dorsal": 0,
+        "nombre": "MARCO MASSARO ALEJOS",
+        "club": "ENTRENAMIENTOCICLISMO",
+        "ca": "MAD"
+      },
+      {
+        "pos": 9,
+        "dorsal": 0,
+        "nombre": "SAMUEL MENDOZA RUBIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 10,
+        "dorsal": 0,
+        "nombre": "PABLO SANTIAGO MUNOZ",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 11,
+        "dorsal": 0,
+        "nombre": "NICOLAS DE LAS HERAS PASANDIN",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 12,
+        "dorsal": 0,
+        "nombre": "SAMUEL REDONDO BLANCO",
+        "club": "EQUIPO CADETE NORTEÑE MPAJAG",
+        "ca": "MAD"
+      },
+      {
+        "pos": 13,
+        "dorsal": 0,
+        "nombre": "HIDALGO MARTIN-LOECHES ALEJANDRO",
+        "club": "ESCUELA DE CICLISMO ALCALÁ",
+        "ca": "CLM"
+      },
+      {
+        "pos": 14,
+        "dorsal": 0,
+        "nombre": "BELTRAN GONZALEZ DEL BARRIO",
+        "club": "TR3CE BIKE CDE",
+        "ca": "MAD"
+      },
+      {
+        "pos": 15,
+        "dorsal": 0,
+        "nombre": "HUGO SANCHEZ SANCHEZ",
+        "club": "MEJORADA C.C.",
+        "ca": "MAD"
+      },
+      {
+        "pos": 16,
+        "dorsal": 0,
+        "nombre": "SANCHEZ ALGECOR GONZALO",
+        "club": "TALAVERA J. POLO CLUB CICLISTA",
+        "ca": "CLM"
+      },
+      {
+        "pos": 17,
+        "dorsal": 0,
+        "nombre": "MARTINEZ RUIZAS MIGUEL",
+        "club": "GALAPAGAR C.C.",
+        "ca": "MAD"
+      }
+    ]
+  }
+}
