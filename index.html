@@ -180,7 +180,7 @@
       return (club||"").toUpperCase().indexOf("MEJORADA C.C.") !== -1;
     }
     function rowClass(r){
-      return "transition " + (isMejorada(r.club) ? "bg-yellow-50 ring-1 ring-yellow-200" : "") + " hover:bg-amber-50";
+      return "transition " + (isMejorada(r.club) ? "bg-yellow-50 ring-2 ring-yellow-200" : "") + " hover:bg-amber-50";
     }
     function renderTabla(rows){
       const fmtPos=p=>(typeof p==="number"?p:"<span class='muted'>—</span>");
