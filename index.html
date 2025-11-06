@@ -89,10 +89,14 @@
             class="inline-block rounded-xl border-slate-300 focus:border-blue-500 focus:ring-blue-500 px-3"></select>
         </div>
         <div class="flex items-end gap-2">
-          <button id="btnExport"
-            class="w-full rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 font-semibold">
-            ⬇️ Exportar CSV
-          </button>
+          <!-- Imagen con enlace (sustituye al botón Exportar CSV) -->
+          <a href="https://youtube.com/clip/Ugkxx2j_pvq4wcCl6aEYOizwyY-2cRVr6z_V?si=9qQaMeWXFE4l4LkZ"
+             target="_blank"
+             class="inline-block">
+            <img src="lineas-paralelas.png"
+                 alt="Vídeo líneas paralelas"
+                 class="h-12 md:h-14 rounded-xl cursor-pointer" />
+          </a>
         </div>
       </div>
       <p class="mt-3 text-sm text-slate-600">Cambia la categoría para recalcular automáticamente posiciones y puntos por prueba (Mocejón, Almansa, Ávila y Seseña) y la clasificación general.</p>
@@ -149,7 +153,7 @@
 
     const categoriaSelect=document.getElementById("categoriaSelect");
     const tablaBody=document.getElementById("tablaBody");
-    const btnExport=document.getElementById("btnExport");
+    // Eliminado: const btnExport = document.getElementById("btnExport");
 
     function keyName(s){return String(s||"").normalize("NFD").replace(/\p{Diacritic}/gu,"").toUpperCase().trim();}
 
@@ -215,18 +219,9 @@
         renderTabla(rows);
       };
       categoriaSelect.addEventListener("change",update);
-      btnExport.addEventListener("click",()=>{
-        const cat=categoriaSelect.value;
-        const rows=computeClasificacion(DATA,cat);
-        const encabezados=["Nombre","Club","CA","PosMocejón","PtsMocejón","PosAlmansa","PtsAlmansa","PosÁvila","PtsÁvila","PosSeseña","PtsSeseña","Total","General"];
-        const lines=[encabezados.join(",")];
-        rows.forEach(r=>lines.push([r.nombre,r.club,r.ca,r.posMo,r.ptsMo,r.posAl,r.ptsAl,r.posAv,r.ptsAv,r.posSe,r.ptsSe,r.total,r.general].join(",")));
-        const blob=new Blob([lines.join("\n")],{type:"text/csv;charset=utf-8;"});
-        const a=document.createElement("a");
-        a.href=URL.createObjectURL(blob);
-        a.download=`clasificacion_${cat}.csv`;
-        a.click();
-      });
+
+      // Eliminado: listener de Exportar CSV (botón ya no existe)
+
       update();
     }
     init();
