@@ -68,6 +68,12 @@
     .row-mejorada:hover { background-color: rgba(253, 230, 138, 0.9); }
   </style>
 
+<style>
+  tbody tr.row-mejorada { background-color: rgba(254,240,138,.6) !important; }
+  tbody tr.row-mejorada:nth-child(even) { background-color: rgba(254,240,138,.6) !important; }
+</style>
+
+  
 </head>
 <body class="bg-slate-50 text-slate-900">
 
@@ -184,7 +190,7 @@
       return (club||"").toUpperCase().indexOf("MEJORADA C.C.") !== -1;
     }
     function rowClass(r){
-      return "transition " + (isMejorada(r.club) ? "bg-yellow-50 ring-2 ring-yellow-200" : "") + " hover:bg-amber-50";
+      return "transition " + (isMejorada(r.club) ? "ring-2 ring-yellow-200" : "") + " hover:bg-amber-50";
     }
     function renderTabla(rows){
       const fmtPos=p=>(typeof p==="number"?p:"<span class='muted'>—</span>");
